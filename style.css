@@ -12,8 +12,14 @@ body{
   margin:auto;
   magin-top:5%;
   color:white;
-  font-family:'Permanent Marker', cursive;
   }
 
- 
-  
+ .box h1{
+    font-family:'Permanent Marker', cursive;
+}
+
+.box-img{
+  border-radius:50%;
+  width:200px;
+  height:200px;
+}
