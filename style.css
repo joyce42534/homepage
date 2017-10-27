@@ -1,0 +1,16 @@
+body{
+  margin:0;
+  padding:0;
+  background:url(bg.jpg) no-repeat;
+  background-sie:cover;
+}
+.box{
+  width:450px;
+  background:rgba(0,0,0,0.4);
+  padding:40px
+  text-align:center;
+  margin:auto;
+  magin-top:5%;
+  color:white;
+  }
+  
