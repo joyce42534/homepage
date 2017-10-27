@@ -8,12 +8,12 @@ html,body{
   height:100%;
 }
 .box{
-  width:450px;
+  width:350px;
   background:rgba(0,0,0,0.4);
   padding:40px;
   text-align:center;
-  margin: 0 auto;
-  magin-top:15%;
+  margin: 200px;
+  magin-top:5%;
   color: white;
   }
 
