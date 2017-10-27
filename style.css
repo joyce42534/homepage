@@ -7,11 +7,11 @@ body{
 .box{
   width:450px;
   background:rgba(0,0,0,0.4);
-  padding:40px
+  padding:40px;
   text-align:center;
   margin:auto;
   magin-top:5%;
-  color:white;
+  color: white;
   }
 
 .box-img{
