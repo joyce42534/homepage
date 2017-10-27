@@ -4,6 +4,9 @@ body{
   background:url(bg.jpg) no-repeat center center;
   background-size:cover;
 }
+html,body{
+  height:100%;
+}
 .box{
   width:450px;
   background:rgba(0,0,0,0.4);
