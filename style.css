@@ -21,5 +21,18 @@ body{
 }
 
  .box h1{
-    font-family:'Permanent Marker', cursive;
+   font-family:'Permanent Marker', cursive;
+   font-size:40px;
+   font-spacing:4px;
+   font-weight:100;
+}
+.box h5{
+  font-size:20px;
+  letter_spacing:3px;
+  font-weight:100
+}
+.box p{
+  text-align:justify;
+}
+  
    
