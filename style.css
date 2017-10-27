@@ -38,4 +38,19 @@ html,body{
   text-align:justify;
 }
   
-   
+ul{
+  margin:0;
+  padding:0;
+}
+.box li{
+  display:inline-block;
+  margin:6px;
+  list-style:none;
+}
+.box li a{
+  color:white;
+  text-decoration:none;
+  font-size:60px;
+}
+  
+}
