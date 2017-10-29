@@ -1,6 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Josefin+Sans|Permanent+Marker';
 @import 'https://fonts.googleapis.com/css?family=Lobster';
-@import 'https://fonts.googleapis.com/css?family=Courgette|Lobster';
+@import 'https://fonts.googleapis.com/css?family=Concert+One|Courgette|Lobster';
 body{
   margin:0;
   padding:0;
@@ -28,7 +28,7 @@ html,body{
 }
 
  .box h1{
-   font-family: 'Courgette', cursive;
+   font-family: 'Concert One', cursive;
    font-size:40px;
    font-spacing:4px;
    font-weight:100;
