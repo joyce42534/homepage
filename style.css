@@ -1,3 +1,4 @@
+@import 'https://fonts.googleapis.com/css?family=Josefin+Sans|Permanent+Marker';
 body{
   margin:0;
   padding:0;
@@ -59,3 +60,35 @@ ul{
   color:#b9b9b9;
 }
 
+header{
+  background:black;
+  color:white;
+  padding:8px 0px 6px 40px;
+  height:60px;
+}
+header h1{
+  display:inline;
+  font-family:'Permanent Marker', cursive;
+  font-weight:400;
+  font-size:32px;
+  float:left;
+  margin-top:0px;
+  margin-right:0px;
+}
+nav ul{
+  display:inline;
+  padding:0px;
+  float:left;
+}
+nav ul li{
+  display:inline-block;
+  list-style-type:none;
+  color:white;
+}
+nav ul li a{
+  color:white;
+  text-decoration:none;
+}
+#nav{
+  font-family:'Permanent Marker', cursive;
+}
