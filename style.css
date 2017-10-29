@@ -72,7 +72,7 @@ header h1{
   display:inline;
   font-family: 'Shrikhand', cursive;
   font-weight:400;
-  font-size:38px;
+  font-size:35px;
   float:left;
   margin-top:0px;
   margin-right:10px;
@@ -94,6 +94,7 @@ nav ul li a{
 }
 #nav{
   font-family:'Permanent Marker', cursive;
+  font-size:20px;
 }
 .homered{
   background-color:red;
