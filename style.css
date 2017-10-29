@@ -36,7 +36,8 @@ html,body{
 .box h5{
   font-size:20px;
   letter_spacing:3px;
-  font-weight:100
+  font-weight:100;
+  font-family: 'Concert One', cursive;
 }
 .box p{
   text-align:justify;
@@ -98,7 +99,7 @@ nav ul li a{
 }
 .homered{
   background-color:red;
-  padding:30px 10px 31px 10px;
+  padding:30px 10px 28px 10px;
 }
 .divider{
   background-color:red;
@@ -106,5 +107,5 @@ nav ul li a{
 }
 .homeblack:hover{
   background-color:blue;
-  padding:30px 10px 28px 10px;
+  padding:30px 10px 25px 10px;
   }
