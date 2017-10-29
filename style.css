@@ -1,5 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Josefin+Sans|Permanent+Marker';
 @import 'https://fonts.googleapis.com/css?family=Lobster';
+@import 'https://fonts.googleapis.com/css?family=Courgette|Lobster';
 body{
   margin:0;
   padding:0;
@@ -27,7 +28,7 @@ html,body{
 }
 
  .box h1{
-   font-family:'Permanent Marker', cursive;
+   font-family: 'Courgette', cursive;
    font-size:40px;
    font-spacing:4px;
    font-weight:100;
