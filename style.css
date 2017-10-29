@@ -95,7 +95,7 @@ nav ul li a{
 }
 .homered{
   background-color:red;
-  padding:30px 10px 20px 10px;
+  padding:30px 10px 25px 10px;
 }
 .divider{
   background-color:red;
@@ -103,4 +103,5 @@ nav ul li a{
 }
 .homeblack:hover{
   background-color:blue;
-  padding:30px 10px 20px 10px;
+  padding:30px 10px 25px 10px;
+  }
