@@ -1,5 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Josefin+Sans|Permanent+Marker';
-@import 'https://fonts.googleapis.com/css?family=Lobster';
+@import 'https://fonts.googleapis.com/css?family=Concert+One|Courgette|Lobster|Shrikhand';
 @import 'https://fonts.googleapis.com/css?family=Concert+One|Courgette|Lobster';
 body{
   margin:0;
@@ -70,7 +70,7 @@ header{
 }
 header h1{
   display:inline;
-  font-family: 'Lobster', cursive;
+  font-family: 'Shrikhand', cursive;
   font-weight:400;
   font-size:32px;
   float:left;
