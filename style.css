@@ -93,3 +93,14 @@ nav ul li a{
 #nav{
   font-family:'Permanent Marker', cursive;
 }
+.homered{
+  background-color:red;
+  padding:30px 10px 16px 10px;
+}
+.divdiver{
+  background-color:red;
+  height:5px;
+}
+.homeblack:hover{
+  background-color:blue;
+  padding:30px 10px 16px 10px;
